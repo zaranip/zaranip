@@ -21,7 +21,7 @@ I am Zara Nip, a Computer Science and Economics major at the University of Chica
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-   <a href="https://github.com/dmtrung14">
+   <a href="https://github.com/zaranip">
      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zaranip&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaranip&layout=compact&theme=algolia"/>
      
