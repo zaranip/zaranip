@@ -26,12 +26,3 @@ I am Zara Nip, a Computer Science and Economics major at the University of Chica
      
    </a>
 </p>
-
-<!---
-dmtrung14/dmtrung14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---
-zaranip/zaranip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
