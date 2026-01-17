@@ -1,11 +1,11 @@
 # Hi there, I'm Zara! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MS+Financial+Mathematics;BS+Computer+Science;Incoming+QR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MS+Financial+Mathematics;BS+Computer+Science;Incoming+Quant" alt="Typing SVG" />
 </p>
 
 ### 📈 About Me
-Currently a student at the **University of Chicago**. Incoming QR.
+Currently a student at the **University of Chicago**. Incoming Quant.
 
 ---
 
